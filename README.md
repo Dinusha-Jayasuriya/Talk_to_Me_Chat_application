@@ -9,7 +9,7 @@ install instruction
    - after that run the client with the run command by opening another terminal
    - go trough the link which will be vissible in the terminal to access to the chat application.
    - login or register as a new user
-   -  
+     
 
 
 
